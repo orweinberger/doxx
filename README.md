@@ -1,4 +1,4 @@
-# Doxx [![Build Status](https://travis-ci.org/FGRibreau/doxx.png)](https://travis-ci.org/FGRibreau/doxx)
+# Doxx [![Build Status](https://travis-ci.org/FGRibreau/doxx.png)](https://travis-ci.org/FGRibreau/doxx) [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 
 Use [dox](https://github.com/visionmedia/dox) to automatically generate beautiful html documentation. **Doxx is a total refactoring of [dox-foundation](https://github.com/punkave/dox-foundation/)**.
 
@@ -87,6 +87,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 * *0.4.0* - (dox-foundation) Improved project navigation, major refactor of folder code
 * *0.5.0* - Initial release of doxx
 * *0.7.0* - Merge pull requests #16 #17 #19 #20
+
+## Donate
+[Donate Bitcoins](https://coinbase.com/checkouts/fc3041b9d8116e0b98e7d243c4727a30)
 
 ## License
 Copyright (c) 2013 Francois-Guillaume Ribreau
